@@ -1,0 +1,1 @@
+﻿All the files needed to run main3.py are in the folder. After running main3.py, the variable “w” is the computed weights, “time_prediction” is the predicted times for the runners, and “validation” contains the information on training and validation error.
